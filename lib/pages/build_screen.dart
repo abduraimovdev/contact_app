@@ -4,6 +4,6 @@ class BuildScreen {
   }
 
   void build() {
-    print("\n\n");
+    print("\n");
   }
 }
